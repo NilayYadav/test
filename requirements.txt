@@ -1,4 +1,0 @@
-audiocraft 
-flask 
-firebase
-numpy==1.24
